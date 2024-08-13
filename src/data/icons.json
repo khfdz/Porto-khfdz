@@ -1,0 +1,23 @@
+{
+    "icons": [
+        { "name": "MongoDB", "icon": "mongodb.png" },
+        { "name": "Express JS", "icon": "expressjs.png" },
+        { "name": "React JS", "icon": "react.png" },
+        { "name": "Node JS", "icon": "nodejs.png" },
+        { "name": "Postman", "icon": "postman.png" },
+        { "name": "Tailwind CSS", "icon": "tailwind.png" },
+        { "name": "JavaScript", "icon": "javascript.png" },
+        { "name": "MySQL", "icon": "mysql.png" },
+        { "name": "Bootstrap", "icon": "boot.png" },
+        { "name": "CSS", "icon": "css.png" },
+        { "name": "HTML", "icon": "html.png" },
+        { "name": "Git", "icon": "git.png" },
+        { "name": "Arduino", "icon": "arduino.png" },
+        { "name": "Whimsical", "icon": "whimsical.png" },
+        { "name": "Figma", "icon": "figma.png" },
+        { "name": "Photoshop", "icon": "photoshop.png" },
+        { "name": "InDesign", "icon": "indesign.png" },
+        { "name": "Lightroom", "icon": "lightroom.png" }
+
+    ]
+}

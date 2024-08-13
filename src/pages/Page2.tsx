@@ -8,7 +8,7 @@ const Page2: React.FC = () => {
                 
                 <div>
                 <img src={Foto} className='w-[1500px] -mt-20 mb-12' />
-                <p className='absolute -mt-[120px] ml-[60px] text-xl'>Dhika Hafidz <br /> Karawang, 25 Feb 2000</p>
+                <p className='absolute -mt-[130px] ml-[60px] text-2xl'>Dhika Hafidz <br /> Karawang, 25 Feb 2000</p>
                 </div>
 
                 <div className='mt-20 ml-12'>
@@ -19,6 +19,10 @@ const Page2: React.FC = () => {
                     experiences and captivating visual stories."
                 </p>
 
+                <div className='text-xl mt-8 text-color5  font-semibold '>
+                <a className='hover:text-color6' href='https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=hafiedzdhika@gmail.com'>Email: hafiedzdhika@gmail.com<br/></a>
+                <a className='hover:text-color6' href='https://wa.me/6282260423997'>Whatsapp: 082260423997</a>
+                </div>
                 </div>
                 
        

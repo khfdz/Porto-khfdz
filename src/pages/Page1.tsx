@@ -8,7 +8,7 @@ const Page1: React.FC = () => {
 
       <div className='flex flex-col h-full relative font-extrabold font-playfair text-9xl'>
         {/* PORTFOLIO text with flexbox */}
-        <div className='flex flex-col ml-[150px]'>
+        <div className='flex flex-col items-center mr-24'>
           <p className='text-color3  z-20'>PORTFOLIO</p>
           <p className='text-text-dark text-stroke -mt-24 z-6'>PORTFOLIO</p>
           <p className='text-text-dark text-stroke -mt-8'>PORTFOLIO</p>
@@ -27,7 +27,7 @@ const Page1: React.FC = () => {
         </label>
       </div>
 
-        <div className='relative -mt-[360px] z-5 ml-[580px] '>
+        <div className='relative -mt-[360px] z-5 ml-[680px] '>
       <img src={Foto} className='w-[350px] ' />
       </div>
 
