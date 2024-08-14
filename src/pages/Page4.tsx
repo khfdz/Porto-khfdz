@@ -8,7 +8,7 @@ const Page4: React.FC = () => {
     const displayedImages = Image[activeCategory];
 
     return (
-        <div className='bg-color3 pl-12 pr-12 pb-10 pt-10'>
+        <div className='bg-color3 pl-12 pr-12 pb-14 pt-10'>
             <div className='flex flex-col items-center'>
                 <p className='text-5xl font-bold mb-10'>My Latest Project</p>
                 <div className='space-x-4 mb-6 text-xl font-bold'>
