@@ -60,7 +60,7 @@ const Page3: React.FC = () => {
                 </div>
             </div>
 
-            <div className='bg-color3 w-[500px] right-0 absolute mt-2 ml-auto -mt-[350px]'>
+            <div className='bg-color3 w-[500px] right-0 absolute ml-auto -mt-[350px]'>
                 <p className='text-color4 text-center text-5xl font-bold p-2 font-playfair'>Experience</p>
                 <div className='flex flex-col-2 p-2'>
                     
@@ -104,7 +104,7 @@ const Page3: React.FC = () => {
                             style={{ animation: `slide-up 0.3s ease-out ${index * 0.1}s` }}
                         >
                             <img 
-                                src={`../../public/icons/${icon.icon}`} 
+                                src={`../../src/icons/${icon.icon}`} 
                                 alt={icon.name} 
                                 className={`${iconSizes[icon.name as IconName] || 'w-16'} items-center justify-center border-4 border-transparent shadow-md`} 
                             />
@@ -124,7 +124,7 @@ const Page3: React.FC = () => {
                             style={{ animation: `slide-up 0.3s ease-out ${index * 0.1}s` }}
                         >
                             <img 
-                                src={`../../public/icons/${icon.icon}`} 
+                                src={`../../src/icons/${icon.icon}`} 
                                 alt={icon.name} 
                                 className={`${iconSizes[icon.name as IconName] || 'w-16'} items-center justify-center border-4 border-transparent shadow-md`} 
                             />

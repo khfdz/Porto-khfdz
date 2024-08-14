@@ -30,7 +30,7 @@ const Page4: React.FC = () => {
                 {displayedImages.slice(0, 4).map((item, index) => (
                     <div key={index} className='relative w-[250px] h-[400px] overflow-hidden rounded-md shadow-md group'>
                         <img 
-                            src={`../../public/images/${item.photo}`} 
+                            src={`../../src/images/${item.photo}`} 
                             alt={item.title} 
                             className='w-full h-full object-cover transition-transform duration-300 transform group-hover:scale-110' 
                         />

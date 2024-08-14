@@ -1,5 +1,5 @@
 import React from 'react';
-import Foto from '../../public/images/foto1.png'
+import Foto from '../images/foto1.png'
 
 const Page1: React.FC = () => {
   return (
