@@ -104,7 +104,7 @@ const Page3: React.FC = () => {
                             style={{ animation: `slide-up 0.3s ease-out ${index * 0.1}s` }}
                         >
                             <img 
-                                src={`../../src/images/icons/${icon.icon}`} 
+                                src={`/icons/${icon.icon}`} 
                                 alt={icon.name} 
                                 className={`${iconSizes[icon.name as IconName] || 'w-16'} items-center justify-center border-4 border-transparent shadow-md`} 
                             />
@@ -124,7 +124,7 @@ const Page3: React.FC = () => {
                             style={{ animation: `slide-up 0.3s ease-out ${index * 0.1}s` }}
                         >
                             <img 
-                                src={`../../src/images/icons/${icon.icon}`} 
+                                src={`/icons/${icon.icon}`} 
                                 alt={icon.name} 
                                 className={`${iconSizes[icon.name as IconName] || 'w-16'} items-center justify-center border-4 border-transparent shadow-md`} 
                             />
