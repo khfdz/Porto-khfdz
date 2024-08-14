@@ -19,7 +19,7 @@ const Page1: React.FC = () => {
       </div>
       
       <div className='absolute z-10 -mt-[193px] xl'>
-        <label className='bg-color1 flex flex-col items-start  w-[200px] ml-[200px] p-4 text-left -space-y-2 '>
+        <label className='bg-color1 flex flex-col items-start  w-[200px] ml-[280px] p-4 text-left -space-y-2 '>
           <a href='https://github.com/khfdz' className='text-white text-2xl hover:text-color2'>GIT: /khfdz</a>
           <a href='https://www.linkedin.com/in/khfdz/' className='text-white text-2xl hover:text-color2'>LI: /khfdz</a>
           <a href='https://www.behance.net/khfdz' className='text-white text-2xl hover:text-color2'>BE: /khfdz</a>

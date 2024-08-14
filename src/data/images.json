@@ -1,0 +1,47 @@
+{
+    "photography": [
+        {
+            "title": "Ramdhani & Riri",
+            "photo": "photo1.jpg",
+            "link": "https://www.behance.net/gallery/160516305/Ramdhani-Riri"
+        },
+        {
+            "title": "Salsa Nur Afifah",
+            "photo": "photo2.jpg",
+            "link": "https://www.behance.net/gallery/159942273/Salsa-Nur-Afifah"
+        },
+        {
+            "title": "Achmad & Cantika",
+            "photo": "photo3.jpg",
+            "link": "https://www.behance.net/gallery/159843067/Wisuda-Achmad-Cantika"
+        },
+        {
+            "title": "Nadiya Fitri Fauziah",
+            "photo": "photo4.jpg",
+            "link": "https://www.behance.net/gallery/159779475/Wisuda-Nadiya"
+        }
+    ],
+
+    "webdev": [
+        {
+            "title": "Manulife Report",
+            "photo": "web1.jpg",
+            "link": "https://tugas-pak-rizky.vercel.app/"
+        },
+        {
+            "title": "Rameno Omeno",
+            "photo": "web2.jpg",
+            "link": "https://github.com/khfdz/eduwork-server-store"
+        },
+        {
+            "title": "Gadget Store",
+            "photo": "web3.jpg",
+            "link": "https://tugas14-fe-gadget-store2.vercel.app/"
+        },
+        {
+            "title": "Getawayhaven.",
+            "photo": "web4.jpg",
+            "link": "https://getaway-haven.vercel.app/"
+        }
+    ]
+}

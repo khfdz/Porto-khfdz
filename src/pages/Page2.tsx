@@ -3,7 +3,7 @@ import Foto from '../../public/images/foto5.png'
 
 const Page2: React.FC = () => {
     return (
-        <div className='bg-color3 pl-12 pr-12 pb-32 pt-20'>
+        <div className='bg-color3 pl-12 pr-12 pb-10 pt-10'>
             <div className='flex flex-col-2 '>
                 
                 <div>
@@ -12,7 +12,7 @@ const Page2: React.FC = () => {
                 </div>
 
                 <div className='mt-20 ml-12'>
-                <p className='text-6xl'>Hello, <br /> I'm Dhika </p>
+                <p className='text-7xl'>Hello, <br /> I'm Dhika </p>
                 <p className='text-xl mt-8 text-justify'>
                     "I'm a <span className='text-color6 font-bold'>fullstack website developer</span> and a <span className='text-color6 font-bold'>photographer</span>, residing in Indonesia. 
                     I hold a bachelor's degree in Computer Science, and I'm passionate about creating stunning digital 
