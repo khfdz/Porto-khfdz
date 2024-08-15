@@ -48,13 +48,13 @@ const Page3: React.FC = () => {
                 <div className='flex flex-col-2 p-2'>
                     <div className='pl-4 pr-4'>
                         <p className='mt-4 text-right text-md font-bold'>2023-2024</p>
-                        <p className='mt-10 text-right text-md font-bold'>2024</p>
+                        <p className='mt-6 text-right text-md font-bold'>2024</p>
                     </div>
                     <div>
-                        <p className='text-xl font-bold'>Eduwork</p>
+                        <a href='https://drive.google.com/file/d/1JiK_kNKmHHQTjYGGHY2sQFPUALkVIoX-/view?usp=sharing' className='text-xl font-bold hover:text-color2'>Eduwork</a>
                         <p>- Fullstack MERN Developer</p>
 
-                        <p className='text-xl font-bold mt-2'>BuildWithAngga</p>
+                        <a href='https://drive.google.com/file/d/1YsgK8gVjmNU0Zmog44O0RsfyPwhkhkPl/view?usp=sharing' className='text-xl font-bold hover:text-color2'>BuildWithAngga</a>
                         <p>- Fullstack MERN Developer</p>
                     </div>
                 </div>
@@ -88,7 +88,8 @@ const Page3: React.FC = () => {
             </div>
 
             <div className='mt-10'>
-                <a href='https://raw.githubusercontent.com/khfdz/Resume/main/CV.pdf' download="Resume-Dhika-Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-l-3xl font-playfair right-0 absolute ml-auto mt-[20px]'>Click Me</a>
+                <a href='https://drive.google.com/file/d/1Bl4Inq3JreEk2Z9hw3aqCheXqJ5Zqcmc/view?usp=sharing' download="CV_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-l-3xl font-playfair right-0 absolute ml-auto mt-[20px] hover:text-white'>CV Regular</a>
+                <a href='https://drive.google.com/file/d/1Bl4Inq3JreEk2Z9hw3aqCheXqJ5Zqcmc/view?usp=sharing' download="CV_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-r-3xl font-playfair left-0 absolute ml-auto mt-[10px] hover:text-white'>CV ATS</a>
             </div>
 
             
