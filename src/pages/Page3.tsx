@@ -88,8 +88,8 @@ const Page3: React.FC = () => {
             </div>
 
             <div className='mt-10'>
-                <a href='https://drive.google.com/file/d/1Bl4Inq3JreEk2Z9hw3aqCheXqJ5Zqcmc/view?usp=sharing' download="CV_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-l-3xl font-playfair right-0 absolute ml-auto mt-[20px] hover:text-white'>CV Regular</a>
-                <a href='https://drive.google.com/file/d/1Bl4Inq3JreEk2Z9hw3aqCheXqJ5Zqcmc/view?usp=sharing' download="CV_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-r-3xl font-playfair left-0 absolute ml-auto mt-[10px] hover:text-white'>CV ATS</a>
+                <a href='https://drive.google.com/file/d/14Q__9cXHmrui1w42WFMMDNUEEiBDniqJ/view?usp=sharing' download="CV-Regular_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-l-3xl font-playfair right-0 absolute ml-auto mt-[20px] hover:text-white'>CV Regular</a>
+                <a href='https://drive.google.com/file/d/1Bl4Inq3JreEk2Z9hw3aqCheXqJ5Zqcmc/view?usp=sharing' download="CV-ATS_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-r-3xl font-playfair left-0 absolute ml-auto mt-[10px] hover:text-white'>CV ATS</a>
             </div>
 
             
