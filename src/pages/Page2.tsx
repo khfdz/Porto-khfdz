@@ -20,7 +20,7 @@ const Page2: React.FC = () => {
                 </p>
 
                 <div className='text-xl mt-8 text-color5  font-semibold '>
-                <a className='hover:text-color6' href='https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=hafiedzdhika@gmail.com'>Email: hafiedzdhika@gmail.com<br/></a>
+                <a className='hover:text-color6' href='https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=dhikahafidz.jobs@gmail.com'>Email: dhikahafidz.jobs@gmail.com<br/></a>
                 <a className='hover:text-color6' href='https://wa.me/6282260423997'>Whatsapp: 082260423997</a>
                 </div>
                 </div>
