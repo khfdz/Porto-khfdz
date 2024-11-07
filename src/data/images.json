@@ -42,6 +42,11 @@
             "title": "Getawayhaven.",
             "photo": "web4.jpg",
             "link": "https://getaway-haven.vercel.app/"
+        },
+        {
+            "title": "larana",
+            "photo": "web5.jpg",
+            "link": "https://furniture-by-larana-2b58.vercel.app/"
         }
     ]
 }
