@@ -88,8 +88,8 @@ const Page3: React.FC = () => {
             </div>
 
             <div className='mt-10'>
-                <a href='https://drive.google.com/file/d/19g7i8gw4ot1H76lPo2xnZsZj7hzNOHUn/view?usp=drive_link' download="CV-Regular_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-l-3xl font-playfair right-0 absolute ml-auto mt-[20px] hover:text-white'>CV Regular</a>
-                <a href='https://drive.google.com/file/d/1XWTjLRuGXLAesDvluVuLaGSzmhJ_fwzM/view?usp=drive_link' download="CV-ATS_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-r-3xl font-playfair left-0 absolute ml-auto mt-[10px] hover:text-white'>CV ATS</a>
+                <a href='https://www.canva.com/design/DAGNazzASG0/luBxn57d25Cr-86tHFotgA/edit?utm_content=DAGNazzASG0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton' download="CV-Regular_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-l-3xl font-playfair right-0 absolute ml-auto mt-[20px] hover:text-white'>CV Regular</a>
+                <a href='https://docs.google.com/document/d/1QEFp3KyqVry7-946-JBIpTPiBHaV5tG9mohWAY3wKD0/edit?usp=sharing' download="CV-ATS_Dhika_Hafidz.pdf" className='bg-color2 p-4 text-2xl font-extrabold rounded-r-3xl font-playfair left-0 absolute ml-auto mt-[10px] hover:text-white'>CV ATS</a>
             </div>
 
             

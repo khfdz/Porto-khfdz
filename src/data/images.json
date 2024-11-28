@@ -30,12 +30,12 @@
         },
         {
             "title": "Rameno Omeno",
-            "photo": "web2.jpg",
+            "photo": "web3.jpg",
             "link": "https://github.com/khfdz/eduwork-server-store"
         },
         {
             "title": "Gadget Store",
-            "photo": "web3.jpg",
+            "photo": "web2.jpg",
             "link": "https://tugas14-fe-gadget-store2.vercel.app/"
         },
         {
@@ -47,6 +47,11 @@
             "title": "larana",
             "photo": "web5.jpg",
             "link": "https://furniture-by-larana-2b58.vercel.app/"
+        },
+        {
+            "title": "Game RockPaperScissors",
+            "photo": "web6.jpg",
+            "link": "https://rockpaperscissor-khfdz.vercel.app/"
         }
     ]
 }

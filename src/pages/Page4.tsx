@@ -64,7 +64,7 @@ const Page4: React.FC = () => {
                         />
                  
                         <div className='absolute inset-0 flex flex-col items-center justify-center bg-black bg-opacity-70 opacity-0 group-hover:opacity-100 transition-opacity duration-300'>
-                            <p className='text-white text-2xl font-bold mb-2'>{item.title}</p>
+                            <p className='text-white text-2xl font-bold mb-2 text-center'>{item.title}</p>
                             <a 
                                 href={item.link} 
                                 target="_blank" 
