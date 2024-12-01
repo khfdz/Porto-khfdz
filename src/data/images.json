@@ -52,6 +52,11 @@
             "title": "Game RockPaperScissors",
             "photo": "web6.jpg",
             "link": "https://rockpaperscissor-khfdz.vercel.app/"
+        },
+        {    
+            "title": "Pak Olin",    
+            "photo": "web7.jpg",    
+            "link": "https://ilcs-test-seven.vercel.app/"    
         }
     ]
 }
